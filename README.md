@@ -1,4 +1,4 @@
-# general_HSR_codes
+# HSR Codes
 Assorted useful code fragments for health services research
 
 #Calculating hospital volume
